@@ -20,10 +20,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a use:link class="nav-link" href="/user-create">회원가입</a>
-                </li>
-                <li class="nav-item">
-                    <a use:link class="nav-link" href="/user-login">로그인</a>
+                    <a use:link class="nav-link" href="https://github.com/login/oauth/authorize?client_id=994695e52ea17b472426">로그인</a>
                 </li>
             </ul>
         </div>

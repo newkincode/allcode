@@ -10,3 +10,5 @@ for i in range(300):
      db.add(q)
 
 db.commit()
+
+#<a use:link class="nav-link" href="https://github.com/login/oauth/authorize?client_id=994695e52ea17b472426">로그인</a>
